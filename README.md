@@ -1,2 +1,3 @@
 # SpaceShooter
-Monogame Final
+Made by Eric Ashford
+
