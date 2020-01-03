@@ -1,4 +1,5 @@
-# SpaceShooter - Launch the Space Defense Application located in the release folder to play.
+# SpaceShooter
+# Launch the Space Defense Application located in the release folder to play.
 
 This is a Space Battle shooter that attempts to recreate the oldschool arcade game Galaga.
 
